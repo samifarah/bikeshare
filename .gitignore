@@ -1,0 +1,13 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.csv
+*.json
+*.geojson
+*.shp
+*.shx
+*.prj
+*.cpg
+*.dbf
